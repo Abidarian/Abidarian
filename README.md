@@ -13,13 +13,13 @@
          
 |🚀  Project                                                                                             | 📚 Tech Stack                           |
 |-------------------------------------------------------------------------------------------------------|--------------------------------------|
-| [Jagiya-Bot](https://github.com/Abidarian/Jagiya-bot)                                | Arduino, RF Transceivers, GPS Module, Accelerometer |
-| [Third_Eye](https://github.com/Abidarian/Third_Eye)  | Raspberry Pi Pico, GSM Module, MQ-x sensors, Python, HTML/ CSS, SQL |
+| [Jagiya-Bot](https://github.com/abid-sayyad/Jagiya-bot)                                | Arduino, RF Transceivers, GPS Module, Accelerometer |
+| [Third_Eye](https://github.com/abid-sayyad/Third_Eye)  | Raspberry Pi Pico, GSM Module, MQ-x sensors, Python, HTML/ CSS, SQL |
          
 </div>
 <br/>
 <p align="center">
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abidarian&theme=dracula" />
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abid-sayyad&theme=dracula" />
         <img alt= "stats card" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abidarian&theme=dracula">
 
 <p>
