@@ -20,7 +20,7 @@
 <br/>
 <p align="center">
          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abid-sayyad&theme=dracula" />
-        <img alt= "stats card" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abidarian&theme=dracula">
+        <img alt= "stats card" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abid-sayyad&theme=dracula">
 
 <p>
 <br/><br/>
