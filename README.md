@@ -7,7 +7,7 @@
 👷‍♂️ Building thing for a change 🕸
 </h4>
 <h3 align="center">
-    Working with Arduino, C/C++, Raspberry Pi, JavaScript 
+    Working with Arduino, C/C++, Raspberry Pi, RTOS 
 </h3>
 <div align="center">
          
