@@ -13,8 +13,14 @@
          
 |🚀  Project                                                                                             | 📚 Tech Stack                           |
 |-------------------------------------------------------------------------------------------------------|--------------------------------------|
-| [Jagiya-Bot](https://github.com/abid-sayyad/Jagiya-bot)                                | Arduino, RF Transceivers, GPS Module, Accelerometer |
+| [Chipakli (Micromouse)](https://github.com/abid-sayyad/Chipkali) | Pi PIco SDK, IR sensors, C, C++ | 
+| [Auto-Move](https://github.com/abid-sayyad/Auto-Move)                                | Arduino, RF Transceivers, GPS Module, Accelerometer |
+| [POV](https://github.com/abid-sayyad/POV) | Arduino, C/C++ | 
 | [Third_Eye](https://github.com/abid-sayyad/Third_Eye)  | Raspberry Pi Pico, GSM Module, MQ-x sensors, Python, HTML/ CSS, SQL |
+| [MAX30102 Device Driver](https://github.com/abid-sayyad/MAX301012) | C/C++, RTOS, Zephyr |
+| [Multi-core LED Blink](https://github.com/abid-sayyad/Multi-core-LED-Blinking) | Pi pico SDK, C/C++, Multi-Core Processing |
+
+
          
 </div>
 <br/>
