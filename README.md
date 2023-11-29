@@ -4,7 +4,7 @@
          height="45"
          width="45" />, I'm Sayyad Abid</h1>
 <h4 align="center">
-👷‍♂️ Building thing for a change 🕸
+My kernel 🌽 pops instead of breaking 🕶️
 </h4>
 <h3 align="center">
     Working with Arduino, C/C++, Raspberry Pi, RTOS 
